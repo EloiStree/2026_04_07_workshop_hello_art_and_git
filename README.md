@@ -12,20 +12,20 @@ Cette semaine est là pour vous permettre d’apprendre que ce n’est pas si ho
 et que c’est même l’outil le plus utile de toute votre vie.
 
 C’est le premier outil informatique que l’on devrait apprendre aux enfants en primaire ;)
-Après un logiciel de dactylographie ⌨️ et Krita 💘.
+_(Après un logiciel de dactylographie ⌨️ et Krita 💘)_
 
-Durant cette semaine, je vais passer un jour avec les développeurs et quatre jours avec les artistes.
-Nous allons donc commencer par un exercice simple, comme nous sommes au début de la formation: une boîte à memes.
+Premiere exercice consiste simplement a creer des fichiers text dans un repertoire commun.
+Voir le tutorial ->
 
 L’idée va être de créer un dossier à votre nom avec:
-
 * une photo à utiliser pour Git et LinkedIn
 * un `README.md` avec vos liens publics
-
   * LinkedIn
+  * Itch.io
+  * Github
   * Portfolio
   * 4 mots qui définissent votre carrière pour les deux années à venir
-  * deux ou trois exemples de métiers que vous aimeriez faire après la formation si vous avez de la chance
+  * deux ou trois exemples de métiers,specialisation, que vous aimeriez faire après la formation
   * deux ou trois entreprises en exemple chez qui vous adoreriez travailler
 * un dossier où déposer vos meilleurs memes
 * un dossier où déposer des memes sur Git
@@ -69,12 +69,9 @@ Allez, c’est parti.
 
 -----------------------
 
-# Autres exercices
+# Exercices
 
 ## Shader Graph sous Unity
-
-Maintenant que vous avez utilisé Git avec des mèmes pour apprendre comment cela fonctionne,
-allons l’utiliser de manière utile.
 
 J’ai fait un projet **« Reality Hacker » sous Unity** qui permet de voir la caméra avec un filtre par-dessus.
 
@@ -96,6 +93,8 @@ Voir [exercice](#)
 
 ---
 
+# Autres exercices
+
 ## Dactylographie
 
 J’ai fait un programme en Godot qui permet de s’entraîner à la dactylographie.
@@ -110,7 +109,6 @@ Vous pouvez vous entraîner, mais j’interviendrai moins sur celui-ci.
 
 Voir [exercice](#)
 
----
 
 ## Kiss Your Puppets
 
