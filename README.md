@@ -64,3 +64,61 @@ Ne pas le maîtriser équivaut à ne pas avoir d’emploi dans l’industrie.
 
 Bonne apprentissage à tous.
 Allez, c’est parti.
+
+
+
+-----------------------
+
+# Autres exercices
+
+## Shader Graph sous Unity
+
+Maintenant que vous avez utilisé Git avec des mèmes pour apprendre comment cela fonctionne,
+allons l’utiliser de manière utile.
+
+J’ai fait un projet **« Reality Hacker » sous Unity** qui permet de voir la caméra avec un filtre par-dessus.
+
+Pour cela, il nous faut créer des shaders,  
+ainsi que les créditer et les documenter avec un `Scriptable` et un fichier `.md`.  
+Vous allez voir : rien de bien compliqué.  
+
+**Pour les artistes :**
+
+* en Shader Graph.  
+
+**Pour les développeurs :**
+
+* en Shader Graph ;
+* en Compute Shader avec un peu de vibing
+  * pour les plus autodidactes.
+
+Voir [exercice](#)
+
+---
+
+## Dactylographie
+
+J’ai fait un programme en Godot qui permet de s’entraîner à la dactylographie.
+Pour qu’il fonctionne, il faut y ajouter une image de fond, un audio et un `.str` dans un dossier.
+
+Voyons si vous avez compris comment Git fonctionne.
+
+Je vous laisse pratiquer l’exercice.
+Vous pouvez vous entraîner, mais j’interviendrai moins sur celui-ci.
+
+**Note:** Dactylographier et parler anglais est important pour un artiste, mais obligatoire pour un métier de programmeur.
+
+Voir [exercice](#)
+
+---
+
+## Kiss Your Puppets
+
+Si vous aimez l’improvisation et le théâtre,
+
+vous pouvez pratiquer sur cette application :
+https://eloistree.itch.io/2019-10-04-kissyourpuppets
+
+Avec Git, proposez des thématiques via des branches.
+
+Voir [exercice](#)
