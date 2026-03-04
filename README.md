@@ -1,4 +1,14 @@
 
+**Planning:**
+- Dev:
+  - Votre premier cube ? Unity Package
+  - ShaderGraph et Resource ;) 
+  - Arnaud: Unity et XR 
+- Art:
+  - Arnaud: Jouer XR, Git et Unity 
+  - GLB et Git avec Godot dans le casque
+  - Shader Graph et Git pour Reality Hacker
+
 
 # Exercice en video:
 - Creer et documenter un ShaderGraph en Unity3D
@@ -25,8 +35,12 @@ et que c’est même l’outil le plus utile de toute votre vie.
 C’est le premier outil informatique que l’on devrait apprendre aux enfants en primaire ;)
 _(Après un logiciel de dactylographie ⌨️ et Krita 💘)_
 
-Premiere exercice consiste simplement a creer des fichiers text dans un repertoire commun.
+Premiere exercice consiste simplement a creer des fichiers text dans un repertoire commun pour Godot
 Voir le tutorial ->
+
+Deuxieme exercice consistera a faire une boite a outil personnel en Unity et y faire un Shader Graph.
+Voir le tutorial -> 
+
 
 L’idée va être de créer un dossier à votre nom avec:
 * une photo à utiliser pour Git et LinkedIn
@@ -36,12 +50,14 @@ L’idée va être de créer un dossier à votre nom avec:
   * Github
   * Portfolio
   * 4 mots qui définissent votre carrière pour les deux années à venir
-  * deux ou trois exemples de métiers,specialisation, que vous aimeriez faire après la formation
-  * deux ou trois entreprises en exemple chez qui vous adoreriez travailler
-* un dossier où déposer vos meilleurs memes
-* un dossier où déposer des memes sur Git
+  * Des photos GitHub de vos portfolio
+* un CREDIT.md avec un message qui sera visible dans le casque.
+* Creons plusieurs dossier:
+* Scene/Demo pour deposer des example de vos travaux
+* Assets/3D pour deposer des travaux a vous en GLB
 
-Comme c’est assez personnel, nous allons faire ça sur un Git privé où nous serons les 24.
+
+
 
 ## Pourquoi apprendre Git
 
@@ -53,19 +69,13 @@ Comme c’est assez personnel, nous allons faire ça sur un Git privé où nous 
 
 Ici, nous sommes dans une formation XR: Virtual Reality, Augmented Reality et Mixed Reality.
 
-Durant la formation, je parie que vous avez envie de voir un peu à quoi ressemblent vos créations 3D dans les casques de VR.
-Sinon, je ne sais pas ce que vous faites dans cette formation. 😜😅
+Durant la formation, je parie que vous aurez envie de voir un peu à quoi ressemblent vos créations 3D dans les casques de VR.
+Sinon, je ne sais pas ce que vous faites dans cette formation XR. 😜😅
 
-Mais comme vous avez un cours plus axé création que Game Engine pour les artistes, il va falloir compter sur les développeurs pour vous permettre de voir vos créations.
+Mais comme vous avez un cours plus axé création que le Game Engine pour les artistes, il va falloir compter sur les développeurs pour vous permettre de voir vos créations.
 (Je vous invite fortement à apprendre comment voir vos créations dans les game engines et à ne pas compter uniquement sur les développeurs.)
 
-Donc, le second exercice va être de vous montrer comment participer en groupe à un projet Unity3D où vous déposez les modèles 3D que vous voulez voir dans les casques.
-Dans le troisième exercice, je vais vous montrer comment faire une boîte à outils 2D/3D pour vous, que vous pouvez donner à un développeur sous Unity3D.
-L’exercice est un peu différent pour Godot, mais du même calibre.
-
-Voilà voilà.
-
-Le but, à la fin de la semaine, est que vous soyez familiarisés avec Fork et la phrase: **Add, Commit, Pull, Push** 🪄
+Le but, à la fin de la semaine, est que vous soyez familiarisés avec la phrase: **Add, Commit, Pull, Push** 🪄
 En tout cas assez pour pouvoir travailler entre artistes et développeurs.
 
 Je ne vois que les bases avec vous, mais c’est à vous de vous former le long de la formation, par l’échec et la pratique.
@@ -104,7 +114,9 @@ Voir [exercice](#)
 
 ---
 
-# Autres exercices
+---
+
+# Bonus Possible
 
 ## Dactylographie
 
