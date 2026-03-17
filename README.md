@@ -9,16 +9,12 @@
   - GLB et Git avec Godot dans le casque
   - Shader Graph et Git pour Reality Hacker
 
-
 # Exercice en video:
-- Creer et documenter un ShaderGraph en Unity3D
-  - [ ] To Add.
+
 - Pratiquer Godot dans le train avec votre telephone:
   - https://www.youtube.com/watch?v=eNjfkL6R6ZQ&t=3s
 - Montrer votre protfolio avec Godot sur Quest3
   - https://www.youtube.com/watch?v=k4nxGuHmllo&t=3846s
-- Pratiquer les branches avec Puppet Master
-  - [ ] To add  
 
 # Workshop Arts And Git
 
