@@ -1,0 +1,102 @@
+
+# Des cubes et des ronds
+
+[<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)  
+Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA  
+
+**Objectif :**
+
+* Principal : Avoir un cube simulateur sur GitHub en Unity3D
+* Secondaire : Faire tourner et bouger le cube
+
+**Bonjour Unity :**
+
+* C’est quoi Unity ?
+* C’est quoi une scène ?
+* Comment on bouge ?
+* C’est quoi un point vide ?
+* C’est quoi un cube ?
+* C’est quoi une caméra ?
+* C’est quoi une lumière ?
+* C’est quoi un collider ?
+* C’est quoi un Rigidbody ?
+* C’est quoi une couleur ?
+* C’est quoi une image ?
+* C’est quoi une texture ?
+* C’est quoi un dépliage ?
+* C’est quoi un matériau URP ?
+* C’est quoi un matériau unlit ?
+* C’est quoi ShaderToy ?
+* C’est quoi une couleur d’environnement ?
+
+  * Noir transparent vs Skybox ?
+* C’est quoi un prefab ?
+
+**Bonjour Git :**
+
+* C’est quoi Git ?
+
+  * Comment on l’installe ?
+  * C’est quoi la version du Git installé ?
+  * C’est quoi un git config ?
+  * C’est quoi un git config --global ?
+  * C’est quoi un merge rebase ?
+* C’est quoi GitHub ?
+
+  * Comment on crée un compte ?
+  * Comment on crée un répertoire ?
+* Comment on télécharge ce répertoire ?
+* Comment on voit les fichiers cachés et les extensions ?
+* Comment on le déplace dans notre projet Unity ?
+* Comment on ajoute un `.gitignore` pour ne pas uploader 1 Go ?
+* À quoi sert un gitignore ?
+* Comment on sauvegarde localement ?
+* Comment on sauvegarde en ligne ?
+* Comment on change le README sur GitHub ?
+* Comment je récupère le README.md localement ?
+* Comment on ajoute une licence à un projet ?
+
+**Builder :**
+
+* Comment on build pour Windows ?
+* Comment on change le nom ?
+* Comment on change l’icône ?
+* C’est quoi itch.io ?
+
+**Hello World :**
+
+* À quoi sert de créer un dossier "_" ?
+* Comment on crée du code Unity ?
+* Pourquoi un dossier Scripts ?
+* C’est quoi un fichier .cs ?
+* C’est quoi un MonoBehaviour ?
+* C’est quoi Start ?
+* C’est quoi Debug.Log ?
+* C’est quoi un string ?
+* C’est quoi Update ?
+* C’est quoi une frame ?
+* C’est quoi un delta ?
+* Comment on fait avancer notre cube ?
+* Comment on le fait tourner ?
+* C’est quoi un Unity Range ?
+* Comment on évite qu’il traverse les murs ?
+* C’est quoi un Character Controller ?
+* Comment on tourne avec un Character ?
+* Comment on avance avec un Character ?
+* Comment on empêche mon joueur de tomber sur le côté ?
+
+**Input Tick :**
+
+* Comment j’écoute mon joystick ?
+* Comment je transmets les joysticks à mon script ?
+* C’est quoi une méthode ?
+* C’est quoi un paramètre ?
+
+**Tadaam :**
+
+À la fin de cet atelier, vous aurez un cube qui bouge proprement sur GitHub.
+Félicitations !
+
+Je ne me suis pas attardé sur le code,
+car c’est le sujet des cours d’Arnaud.
+
