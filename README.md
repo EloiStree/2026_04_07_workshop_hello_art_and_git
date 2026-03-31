@@ -1,5 +1,8 @@
+[Old workshop](https://github.com/EloiStree/TeachingThisYear/issues/2)
 
-**Planning:**
+--------------
+
+##  Planning
 - Dev:
   - Votre premier cube ? Unity Package
   - ShaderGraph et Resource ;) 
@@ -9,14 +12,14 @@
   - GLB et Git avec Godot dans le casque
   - Shader Graph et Git pour Reality Hacker
 
-# Exercice en video:
+##   Exercice en video:
 
 - Pratiquer Godot dans le train avec votre telephone:
   - https://www.youtube.com/watch?v=eNjfkL6R6ZQ&t=3s
 - Montrer votre protfolio avec Godot sur Quest3
   - https://www.youtube.com/watch?v=k4nxGuHmllo&t=3846s
 
-# Workshop Arts And Git
+##   Workshop Arts And Git
 
 😋😜 You’re gonna love it 😁
 
@@ -55,7 +58,7 @@ L’idée va être de créer un dossier à votre nom avec:
 
 
 
-## Pourquoi apprendre Git
+### Pourquoi apprendre Git
 
 * Ne jamais perdre ses projets (backup parfait)
 * Travailler en équipe sur le même projet
@@ -86,9 +89,9 @@ Allez, c’est parti.
 
 -----------------------
 
-# Exercices
+## Exercices
 
-## Shader Graph sous Unity
+### Shader Graph sous Unity
 
 J’ai fait un projet **« Reality Hacker » sous Unity** qui permet de voir la caméra avec un filtre par-dessus.
 
@@ -112,9 +115,9 @@ Voir [exercice](#)
 
 ---
 
-# Bonus Possible
+## Bonus Possible
 
-## Dactylographie
+### Dactylographie
 
 J’ai fait un programme en Godot qui permet de s’entraîner à la dactylographie.
 Pour qu’il fonctionne, il faut y ajouter une image de fond, un audio et un `.str` dans un dossier.
@@ -129,7 +132,7 @@ Vous pouvez vous entraîner, mais j’interviendrai moins sur celui-ci.
 Voir [exercice](#)
 
 
-## Kiss Your Puppets
+### Kiss Your Puppets
 
 Si vous aimez l’improvisation et le théâtre,
 
