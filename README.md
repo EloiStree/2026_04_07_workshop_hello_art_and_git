@@ -1,6 +1,3 @@
-[Old workshop](https://github.com/EloiStree/TeachingThisYear/issues/2)
-
---------------
 
 ##  Planning
 - Dev:
