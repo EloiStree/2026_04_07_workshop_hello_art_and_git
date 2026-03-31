@@ -1,13 +1,13 @@
 
 ##  Planning
 - Dev:
-  - Votre premier cube ? Unity Package
-  - ShaderGraph et Resource ;) 
+  - Votre premier cube et le Unity Package
+  - Greybox et des couleurs sur un Git en groupe
   - Arnaud: Unity et XR 
 - Art:
   - Arnaud: Jouer XR, Git et Unity 
-  - GLB et Git avec Godot dans le casque
-  - Shader Graph et Git pour Reality Hacker
+  - Greybox et des couleurs sur un Git en groupe
+  - Votre portfolio sur Unity et Godot
 
 ##   Exercice en video:
 
