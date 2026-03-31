@@ -10,7 +10,6 @@ Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA
 * Secondaire : Faire tourner et bouger le cube
 
 **Bonjour Unity :**
-
 * C’est quoi Unity ?
 * C’est quoi une scène ?
 * Comment on bouge ?
@@ -28,21 +27,17 @@ Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA
 * C’est quoi un matériau unlit ?
 * C’est quoi ShaderToy ?
 * C’est quoi une couleur d’environnement ?
-
   * Noir transparent vs Skybox ?
 * C’est quoi un prefab ?
 
 **Bonjour Git :**
-
 * C’est quoi Git ?
-
   * Comment on l’installe ?
   * C’est quoi la version du Git installé ?
   * C’est quoi un git config ?
   * C’est quoi un git config --global ?
   * C’est quoi un merge rebase ?
 * C’est quoi GitHub ?
-
   * Comment on crée un compte ?
   * Comment on crée un répertoire ?
 * Comment on télécharge ce répertoire ?
@@ -57,14 +52,12 @@ Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA
 * Comment on ajoute une licence à un projet ?
 
 **Builder :**
-
 * Comment on build pour Windows ?
 * Comment on change le nom ?
 * Comment on change l’icône ?
 * C’est quoi itch.io ?
 
 **Hello World :**
-
 * À quoi sert de créer un dossier "_" ?
 * Comment on crée du code Unity ?
 * Pourquoi un dossier Scripts ?
@@ -86,17 +79,20 @@ Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA
 * Comment on empêche mon joueur de tomber sur le côté ?
 
 **Input Tick :**
-
 * Comment j’écoute mon joystick ?
 * Comment je transmets les joysticks à mon script ?
 * C’est quoi une méthode ?
 * C’est quoi un paramètre ?
 
-**Tadaam :**
+**Tadaam 🎊**   
+À la fin de cet atelier, vous aurez un cube qui bouge proprement sur GitHub.      
+Félicitations !    
 
-À la fin de cet atelier, vous aurez un cube qui bouge proprement sur GitHub.
-Félicitations !
+Je ne me suis pas attardé sur le code,   
+car c’est le sujet des cours d’Arnaud.   
 
-Je ne me suis pas attardé sur le code,
-car c’est le sujet des cours d’Arnaud.
+
+------------------------
+
+
 
