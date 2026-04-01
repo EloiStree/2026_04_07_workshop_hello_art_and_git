@@ -3,6 +3,7 @@
 
 [<img width="657" height="124" alt="image" src="https://github.com/user-attachments/assets/372d77a4-aa9e-4a93-9f20-392c2368f649" />](https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones)  
 [<img width="1299" height="869" alt="image" src="https://github.com/user-attachments/assets/59df6f0e-f715-445b-b792-fa8307204f9a" />](https://github.com/EloiStree/2026_04_01_unity_hello_cube)   
+[<img width="570" height="366" alt="image" src="https://github.com/user-attachments/assets/6aeaf768-8751-4aa6-aa14-9d025bfe5d57" />](https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones)  
 [<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)     
 Robot vidéo : [https://www.youtube.com/watch?v=jpczFTSQmsA](https://www.youtube.com/watch?v=jpczFTSQmsA)        
   
