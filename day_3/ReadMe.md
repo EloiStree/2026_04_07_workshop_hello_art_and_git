@@ -1,31 +1,45 @@
 
-# Portfolio en Unity XR et Godot XR
 
-> Comment collaborer avec le développeur de l’atelier pour visualiser vos assets 3D sur Quest.
+# Vos GLB sur le Quest 2/3
 
-Vous n’aurez pas le temps d’apprendre à utiliser Unity3D en profondeur.
-Mais vous souhaitez tout de même voir vos assets 3D en fonctionnement.
+> Allons voir vos créations sur le Quest.
 
-Nous allons donc créer une boîte à outils (toolbox) pour le gestionnaire de packages Unity.
-Cette toolbox pourra être importée dans n’importe quel projet Unity3D.
+J’ai besoin d’un artiste débrouillard à déléguer,
+et d’un assistant pour le seconder.
 
-Un projet déjà préparé pour Quest, intégrant votre toolbox, sera fourni au développeur.
+Godot est très bon pour importer des GLB.
+Tellement bon qu’il y a généralement peu ou pas de retouches à faire.
 
-Deux délégués seront responsables de ce dépôt Git :
+Je vais donc vous apprendre à déposer un GLB dans un addon Godot non VR/XR,
+afin de créer un portfolio de groupe.
 
-* un artiste
-* un développeur
+Je vais ensuite cloner cet addon sur mon casque avec Godot.
+Vous pourrez ainsi voir vos portfolios 3D en VR.
 
-Aujourd’hui, vous devrez tous apprendre :
+J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le casque.
 
-* à utiliser la toolbox
-* à communiquer avec votre délégué pour demander un build 😉
+---
 
-C’est le sujet de l’atelier d’aujourd’hui.
+## Planning
 
+### Matin
 
-------------
+* Apprendre à déposer un GLB dans Godot
+* Ajouter un dossier personnel dans un Git commun
 
-(On pourrait le faire en Godot.
-Mais ce n est pas le sujet de debut de formation.
-Voir cette video si vous voulez apprendre a le faire en Godot)
+### Avant midi
+
+* Sauver sur sa propre branche vos assets 3D de préformation
+
+  * Sinon, utiliser des assets low poly en licence CC trouvés sur le web
+
+### Midi
+
+* Pratiquer les imports d’assets pour le fun
+
+  * Attention aux poids lourds
+
+### Après-midi
+
+* Créer votre portfolio GitHub Pages et README.md
+* Culture générale sur la VR et session de questions-réponses
