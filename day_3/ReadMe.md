@@ -1,22 +1,22 @@
 
 
-# Vos GLB sur le Quest 2/3
+# Vos GLB sur le Quest 2/3  
+  
+> Allons voir vos créations sur le Quest.  
+  
+J’ai besoin d’un artiste débrouillard et d’un assistant pour le seconder.   
+  
+Godot est très bon pour importer des GLB.    
+Tellement bon qu’il y a généralement peu ou pas de retouches à faire.      
 
-> Allons voir vos créations sur le Quest.
-
-J’ai besoin d’un artiste débrouillard et d’un assistant pour le seconder.
-
-Godot est très bon pour importer des GLB.
-Tellement bon qu’il y a généralement peu ou pas de retouches à faire.
-
-Je vais donc vous apprendre à déposer un GLB dans un addon Godot non VR/XR,
-afin de créer un portfolio de groupe.
-
-Je vais ensuite cloner cet addon sur mon casque avec Godot.
-Vous pourrez ainsi voir vos portfolios 3D en VR.
-
-J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le casque.
-
+Je vais donc vous apprendre à déposer un GLB dans un addon Godot non VR/XR,    
+afin de créer un portfolio de groupe.     
+   
+Je vais ensuite cloner cet addon sur mon casque avec Godot.      
+Vous pourrez ainsi voir vos portfolios 3D en VR.       
+  
+J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le casque.      
+  
 ---
 
 ## Planning
