@@ -1,6 +1,9 @@
 
 # Des cubes et des ronds  
 
+<img width="1299" height="869" alt="image" src="https://github.com/user-attachments/assets/59df6f0e-f715-445b-b792-fa8307204f9a" />
+
+
 [<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)     
 Robot vidéo : [https://www.youtube.com/watch?v=jpczFTSQmsA](https://www.youtube.com/watch?v=jpczFTSQmsA)       
 
