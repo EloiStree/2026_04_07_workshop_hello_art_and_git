@@ -79,7 +79,39 @@ Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cub
 * Comment on change le nom ?
 * Comment on change l’icône ?
 * C’est quoi itch.io ?
+ 
+---------------------
 
+**Comme des gamins**
+
+> Allons bouger des jouettes avec du code.
+
+- Ajouter au package manager via interce une boite a outils:
+  - [Tick Collection](https://github.com/EloiStree/2025_06_02_upm_tick_collection)  
+- Ajoutons des jouettes aux packages manager via fichier package.json :
+  - [Car Skid](https://github.com/EloiStree/2023_02_19_upm_KidToyHelicopterModeCode)
+  - [OVNI](https://github.com/EloiStree/2025_04_15_upm_KidToyOvniCode)
+  - [Tello](https://github.com/EloiStree/2023_02_19_upm_KidToyDroneTelloModeCode)
+  - [Helico](https://github.com/EloiStree/2023_02_19_upm_KidToyHelicopterModeCode)
+  - [UV Drawable Drones](https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones.git)
+  - Honoroable Mention:
+    - [Boat](https://github.com/EloiStree/2024_09_23_upm_KidToyBoatModeCode)
+    - [Tank](https://github.com/EloiStree/2024_10_05_upm_KidToyTankTreadModeCode)
+      
+`Package.json`  
+
+```
+  
+```
+ 
+
+
+
+---------------------
+
+> Un peu hard pour un premier jours.  
+Video si vous voulez vous y essayer[🎥](https://youtu.be/cmTlat0eYK4)  
+ 
 **Hello World :**
 * À quoi sert de créer un dossier "_" ?
 * Comment on crée du code Unity ?
@@ -116,7 +148,6 @@ car c’est le sujet des cours d’Arnaud.
 
 
 ------------------------
-
 
 
 
