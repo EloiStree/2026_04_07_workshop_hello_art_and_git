@@ -19,6 +19,7 @@ Vidéos :
 * **Résultat** : Avoir un simulateur de cube sur GitHub avec Unity3D  
 * **Savoirs** : 
   * Comprendre la différence entre *Mesh*, *Color*, *Material*, *Texture* et la lumière
+  * Savoir sauver sur GitHub via Git
 
 ### Secondaire : faire tourner et bouger le cube
 
