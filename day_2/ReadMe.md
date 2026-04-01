@@ -1,37 +1,40 @@
-# Blocks Color, Greyboxing and sensor
 
-> Work on Git and Branch on the same project to make in one day 12+ prototyping sensors of Keyestudio
+# Blocs de couleur, Greyboxing et capteurs
 
-The aim of this workshop it to train on Git and Branch more that Unity3D.  
-And prepare the future Godot Workshop with the Unity3D export option ;)  
+> Travail sur Git et les branches au sein d’un même projet afin de créer plus de 12 prototypes de capteurs Keyestudio en une journée.
 
-Video: -
-Solution: -
+L’objectif de cet atelier est de s’entraîner davantage à Git et à la gestion de branches qu’à Unity3D.
+Il prépare également à un futur atelier sur Godot avec l’option d’export Unity3D.
 
-Git:
-- La doc et image sur les senseurs: [2026_03_23_gdp_micro_bit_sensor](https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor)
-- Le fork pour l atelier Charleroi XR: (a faire le jours avant)
+Vidéo : -
+Solution : -
+
+## Git
+
+* Documentation et images des capteurs :
+  [https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor](https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor)
+* Fork pour l’atelier XR de Charleroi : (à faire la veille)
 
 ---
 
-## Objectif
+## Objectifs
 
-### Principal : Prototyper des senseurs sur Git
+### Principal : Prototyper des capteurs avec Git
 
-* **Résultat** : Un GitHub de groupe avec des greyboxes de senseurs Keyestudio visible sur le Quest3
-* **Savoirs** :
-  * Pratiquer git add commit pull push
-  * Pratiquer git les branches
-  * Pratiquer la convetion de groupe
-  * Familiariser avec l interface de Unity3D
+* **Résultat** : Un dépôt GitHub de groupe avec des capteurs Keyestudio en greyboxing visibles sur Quest 3
+* **Compétences** :
+  * Pratiquer `git add`, `commit`, `pull`, `push`
+  * S’exercer au travail avec des branches
+  * Suivre les conventions du groupe
+  * Se familiariser avec l’interface Unity3D
 
 ### Secondaire : Se familiariser avec Fork
 
 * **Résultat** : Installer et utiliser Fork
-* **Savoirs** :
-  * Savoir sauver localement
-  * Savoir sauver en ligne
-  * Savoir resoudre des conflits
-  * savoir se creer une branche
-  * savoir publier sa branche sur la branche principale
+* **Compétences** :
+  * Sauvegarder en local
+  * Sauvegarder en ligne
+  * Résoudre les conflits
+  * Créer une branche
+  * Publier une branche sur la branche principale
 
