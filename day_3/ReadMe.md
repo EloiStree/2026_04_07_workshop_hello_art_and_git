@@ -4,8 +4,7 @@
 
 > Allons voir vos créations sur le Quest.
 
-J’ai besoin d’un artiste débrouillard à déléguer,
-et d’un assistant pour le seconder.
+J’ai besoin d’un artiste débrouillard et d’un assistant pour le seconder.
 
 Godot est très bon pour importer des GLB.
 Tellement bon qu’il y a généralement peu ou pas de retouches à faire.
