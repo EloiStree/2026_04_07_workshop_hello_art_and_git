@@ -6,9 +6,8 @@ Robot vidéo : [https://www.youtube.com/watch?v=jpczFTSQmsA](https://www.youtube
 
 Solution : [https://github.com/EloiStree/2026_04_01_unity_hello_cube](https://github.com/EloiStree/2026_04_01_unity_hello_cube)   
 Vidéos :    
-
-* Créer un cube et sauvegarder sur Git : [https://youtu.be/KLYvMq1HCUM](https://youtu.be/KLYvMq1HCUM)  
-* Survol : comment bouger et tourner (à ajouter)     
+* Créer un cube et sauvegarder sur Git : https://youtu.be/KLYvMq1HCUM    
+* Survol de comment bouger et tourner : https://youtu.be/cmTlat0eYK4  
 
 ---
 
