@@ -1,8 +1,11 @@
 
 # Des cubes et des ronds
 
+
 [<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)  
 Robot video: https://www.youtube.com/watch?v=jpczFTSQmsA  
+
+Solution: https://github.com/EloiStree/2026_04_01_unity_hello_cube
 
 **Objectif :**
 
@@ -93,6 +96,8 @@ car c’est le sujet des cours d’Arnaud.
 
 
 ------------------------
+
+
 
 
 
