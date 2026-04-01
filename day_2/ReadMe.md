@@ -6,8 +6,10 @@
 L’objectif de cet atelier est de s’entraîner davantage à Git et à la gestion de branches qu’à Unity3D.
 Il prépare également à un futur atelier sur Godot avec l’option d’export Unity3D.
 
-Vidéo : -
-Solution : -
+<img width="1490" height="1479" alt="image" src="https://github.com/user-attachments/assets/2634fe22-fa4b-4f48-9e9a-6afe717e6c53" />
+
+Vidéo : -  
+Solution : -  
 
 ## Git
 
