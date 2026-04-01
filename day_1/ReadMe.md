@@ -1,31 +1,29 @@
 
-# Des cubes et des ronds
+# Des cubes et des ronds  
 
-[<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)
-Robot vidéo : [https://www.youtube.com/watch?v=jpczFTSQmsA](https://www.youtube.com/watch?v=jpczFTSQmsA)
+[<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/de10b046-512f-45b3-9ad0-aee78ebd23f0" />](https://www.youtube.com/watch?v=jpczFTSQmsA)     
+Robot vidéo : [https://www.youtube.com/watch?v=jpczFTSQmsA](https://www.youtube.com/watch?v=jpczFTSQmsA)       
 
-Solution : [https://github.com/EloiStree/2026_04_01_unity_hello_cube](https://github.com/EloiStree/2026_04_01_unity_hello_cube)
-Vidéos :
+Solution : [https://github.com/EloiStree/2026_04_01_unity_hello_cube](https://github.com/EloiStree/2026_04_01_unity_hello_cube)   
+Vidéos :    
 
-* Créer un cube et sauvegarder sur Git : [https://youtu.be/KLYvMq1HCUM](https://youtu.be/KLYvMq1HCUM)
-* Survol : comment bouger et tourner (à ajouter)
+* Créer un cube et sauvegarder sur Git : [https://youtu.be/KLYvMq1HCUM](https://youtu.be/KLYvMq1HCUM)  
+* Survol : comment bouger et tourner (à ajouter)     
 
 ---
 
 ## Objectif
 
-### Principal
+### Principal 
 
-* **Résultat** : Avoir un simulateur de cube sur GitHub avec Unity3D
-* **Savoirs** :
-
+* **Résultat** : Avoir un simulateur de cube sur GitHub avec Unity3D  
+* **Savoirs** : 
   * Comprendre la différence entre *Mesh*, *Color*, *Material*, *Texture* et la lumière
 
 ### Secondaire : faire tourner et bouger le cube
 
 * **Résultat** : Faire bouger notre objet (piggy)
 * **Savoirs** :
-
   * Apprendre à créer un script avec un *Hello World*, une fonction `Update` et des inputs
   * Comprendre la différence entre `.Translate` du `Transform` et `.Move` du `CharacterController`
 
