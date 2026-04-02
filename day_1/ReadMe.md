@@ -201,14 +201,37 @@ car c’est le sujet des cours d’Arnaud.
 ```
 
 ```
-https://github.com/EloiStree/2024_09_03_upm_sky_riding_path.git
-https://github.com/EloiStree/2024_10_02_upm_patoune_race
-https://github.com/EloiStree/2024_06_31_upm_air_circuit_step.git
-https://github.com/EloiStree/2025_02_18_upm_outer_wilds_ship.git
-https://github.com/EloiStree/2024_10_16_upm_blocks_color.git
+git submodule add https://github.com/EloiStree/2025_02_18_upm_outer_wilds_ship.git Packages/2025_02_18_upm_outer_wilds_ship
+git submodule add https://github.com/EloiStree/2024_09_06_upm_best_time_score.git Packages/2024_09_06_upm_best_time_score
+git submodule add https://github.com/EloiStree/2024_09_03_upm_sky_riding_path.git Packages/2024_09_03_upm_sky_riding_path
+git submodule add https://github.com/EloiStree/2024_10_16_upm_blocks_color.git Packages/2024_10_16_upm_blocks_color
+git submodule add https://github.com/EloiStree/2024_06_31_upm_air_circuit_step.git Packages/2024_06_31_upm_air_circuit_step
+git submodule add https://github.com/EloiStree/2023_02_17_upm_digital_score_and_clock Packages/2023_02_17_upm_digital_score_and_clock
+
 ```
+
+```
+https://github.com/EloiStree/2025_01_11_upm_22_minutes_ntp.git
+https://github.com/EloiStree/2023_11_27_upm_set_point_board.git
+https://github.com/EloiStree/2023_02_17_upm_digital_score_and_clock
+https://github.com/EloiStree/2024_10_02_upm_patoune_race
+
+```
+
+https://eloistree.github.io/r/discord
 
 Used in private workshop:  
 - https://github.com/EloiStree/2025_02_05_P_NaturePack300  
 
+
+
+```
+git submodule add https://github.com/EloiStree/2024_08_10_upm_developer_note.git Packages/2024_08_10_upm_developer_note
+git submodule add https://github.com/EloiStree/2024_10_16_upm_find_missing_script.git Packages/2024_10_16_upm_find_missing_script
+git submodule add https://github.com/EloiStree/2025_06_02_upm_tick_collection.git Packages/2025_06_02_upm_tick_collection
+git submodule add https://github.com/EloiStree/2025_04_02_upm_primitive_relay.git Packages/2025_04_02_upm_primitive_relay
+git submodule add https://github.com/EloiStree/2024_04_18_upm_watch_execute_time.git Packages/2024_04_18_upm_watch_execute_time
+git submodule add https://github.com/EloiStree/2019_07_24_upm_quick_git_utility.git Packages/2019_07_24_upm_quick_git_utility
+git submodule add https://github.com/EloiStree/2019_07_21_upm_unity_package_facilitator.git Packages/2019_07_21_upm_unity_package_facilitator
+```
 
