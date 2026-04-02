@@ -197,6 +197,7 @@ car c’est le sujet des cours d’Arnaud.
     "be.elab.tellotoy": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
     "be.elab.uvdrawabledrones": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
     "be.elab.xinputdotnet": "https://github.com/EloiStree/2020_11_26_XInputDotNet.git",
+    "be.elab.quickfollowit": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
 ``` 
 
 
