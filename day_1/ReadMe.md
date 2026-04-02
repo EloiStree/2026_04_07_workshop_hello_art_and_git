@@ -198,6 +198,17 @@ car c’est le sujet des cours d’Arnaud.
     "be.elab.uvdrawabledrones": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
     "be.elab.xinputdotnet": "https://github.com/EloiStree/2020_11_26_XInputDotNet.git",
     "be.elab.quickfollowit": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
-``` 
+```
+
+```
+https://github.com/EloiStree/2024_09_03_upm_sky_riding_path.git
+https://github.com/EloiStree/2024_10_02_upm_patoune_race
+https://github.com/EloiStree/2024_06_31_upm_air_circuit_step.git
+https://github.com/EloiStree/2025_02_18_upm_outer_wilds_ship.git
+https://github.com/EloiStree/2024_10_16_upm_blocks_color.git
+```
+
+Used in private workshop:  
+- https://github.com/EloiStree/2025_02_05_P_NaturePack300  
 
 
