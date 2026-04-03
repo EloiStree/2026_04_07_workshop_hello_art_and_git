@@ -9,7 +9,6 @@ Git, Input Toy: https://github.com/EloiStree/2026_04_02_unity_input_and_toys
 Solution : [https://github.com/EloiStree/2026_04_01_unity_hello_cube](https://github.com/EloiStree/2026_04_01_unity_hello_cube)     
 Vidéos :     
 * Créer un cube et sauvegarder sur Git : https://youtu.be/KLYvMq1HCUM    
-* Survol de comment bouger et tourner : https://youtu.be/cmTlat0eYK4  
 
 Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cube_cross_for_piggy.zip)
 
