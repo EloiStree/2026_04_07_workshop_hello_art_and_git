@@ -85,6 +85,8 @@ Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cub
 
 # Input, Translate and Rotate
 
+<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />
+
 ## Let's Move a car
 
 - Workshop: Use Input (Button,Axis,Joystick) to move a steer car
