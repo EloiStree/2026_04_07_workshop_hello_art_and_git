@@ -1,5 +1,5 @@
 
-# Des cubes et des ronds  
+# Matin: Des cubes et des ronds  
 
 Git, Input Toy: https://github.com/EloiStree/2026_04_02_unity_input_and_toys
 
@@ -90,7 +90,9 @@ car c’est le sujet des cours d’Arnaud.
 
 -------------
 
-# Input, Translate and Rotate
+# Apres-Midi:  Input, Translate and Rotate  
+
+_Si l'exercice du matin est fini_  
 
 [<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16)
 Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16) ([Solution](https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code))   
