@@ -103,7 +103,8 @@ Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_
 
 Try to move the car with the Input system of Unity3D:  
 - Input: https://github.com/EloiStree/2025_06_02_upm_tick_collection.git  
-- Steer car: https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git  
+- Steer car: https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git
+- Helicopter: https://github.com/EloiStree/2023_02_19_upm_kid_toy_helicopter_code.git
 
 
 
