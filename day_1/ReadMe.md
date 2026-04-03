@@ -80,24 +80,22 @@ Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cub
 * Comment on change l’icône ?
 * C’est quoi itch.io ?
 
+**Tadaam 🎊**   
+À la fin de cet atelier, vous aurez un cube qui bouge proprement sur GitHub.      
+Félicitations !    
+
+Je ne me suis pas attardé sur le code,   
+car c’est le sujet des cours d’Arnaud. 
+
 
 -------------
 
 # Input, Translate and Rotate
 
-<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />
+[<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16)
+Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16)
 
-## Let's Move a car
 
-- Workshop: Use Input (Button,Axis,Joystick) to move a steer car
-
-## Let's Move an drone
-
-- Workshop: Create basic code to Translate and Rotate a drone
-
-## Move with RigidBody ?
-
-- Workshop: How to create the Outers Wild spaceship
 
 
 
@@ -105,9 +103,14 @@ Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cub
 
 ---------------------
 
-> Un peu hard pour un premier jours.  
-Video si vous voulez vous y essayer[🎥](https://youtu.be/cmTlat0eYK4)  
- 
+---------------------
+
+# Archive
+
+J'avais fait un Hello World C# un peu trop compliquer pour des debutants.  
+> Un peu hard pour un premier jours.  [🎥](https://youtu.be/cmTlat0eYK4)  
+_la video si vous voulez vous y essayer_  
+
 **Hello World :**
 * À quoi sert de créer un dossier "_" ?
 * Comment on crée du code Unity ?
@@ -135,10 +138,5 @@ Video si vous voulez vous y essayer[🎥](https://youtu.be/cmTlat0eYK4)
 * C’est quoi une méthode ?
 * C’est quoi un paramètre ?
 
-**Tadaam 🎊**   
-À la fin de cet atelier, vous aurez un cube qui bouge proprement sur GitHub.      
-Félicitations !    
-
-Je ne me suis pas attardé sur le code,   
-car c’est le sujet des cours d’Arnaud.   
+  
 
