@@ -105,8 +105,8 @@ Try to move the car with the Input system of Unity3D:
 - Input: https://github.com/EloiStree/2025_06_02_upm_tick_collection.git  
   - Steer car: https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git
   - Helicopter: https://github.com/EloiStree/2023_02_19_upm_kid_toy_helicopter_code.git
-  - Tello: https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tello_code
-  - Two wheel: https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code
+  - Tello: https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tello_code.git
+  - Two wheel: https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git
 
 
 
