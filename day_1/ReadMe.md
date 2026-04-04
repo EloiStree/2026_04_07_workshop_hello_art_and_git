@@ -178,4 +178,5 @@ https://github.com/EloiStree/HelloEloiStreeRawVideo/issues/5
 ________________________
 
 Kill the humans in the workshop ? 
-https://github.com/EloiStree/2025_04_16_upm_kill_all_humans_abduction
+- https://github.com/EloiStree/2025_04_14_upm_ovni_ship_mesh
+- https://github.com/EloiStree/2025_04_16_upm_kill_all_humans_abduction
