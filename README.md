@@ -48,18 +48,18 @@ L’idée va être de créer un dossier à votre nom avec:
   * Des photos GitHub de vos portfolio
 * Telechargeons le sur votre ordinateur avec Fork
 
-Atelier:
-- [ ] https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/2
+Atelier:  
+- https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/2
 
 ### Travail de groupe sur Unity
 
-Atelier:
-- [ ] https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/3
+Atelier:  
+- https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/3
 
 ### Voir ses assets en XR (Unity et Godot)
 
-Atelier:
-- [ ] https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/4
+Atelier:  
+- https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/4
 
 
 ### Pourquoi apprendre Git
