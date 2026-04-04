@@ -1,10 +1,10 @@
 # Concept: Pratiquer Git pour travailler en groupe avec la XR
 
-**Godot dans le Quest3**:    
+**Godot dans le Quest3**: [🎥](https://youtu.be/6RE8KuCspqw?t=291)   
 [<img width="1367" height="706" alt="image" src="https://github.com/user-attachments/assets/17288cde-8d70-4da6-b22c-919b70c6efd7" />](https://youtu.be/6RE8KuCspqw?t=291)
 
-**24 apprenant sur Unity3D**:  
-[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9b7e9a3-90ac-4dbb-a58c-2ca9f4c3138f" />](https://eloistree.itch.io/magicdooratelierdegroupetechnocite)     
+**24 apprenant sur Unity3D**: [🎥](https://eloistree.itch.io/magicdooratelierdegroupetechnocite)   
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9b7e9a3-90ac-4dbb-a58c-2ca9f4c3138f" />](https://eloistree.itch.io/magicdooratelierdegroupetechnocite)       
 
 
 ##  Planning
