@@ -33,6 +33,10 @@ et que c’est même l’outil le plus utile de toute votre vie.
 C’est le premier outil informatique que l’on devrait apprendre aux enfants en primaire ;)  
 _(Après un logiciel de dactylographie ⌨️ et Krita 💘)_   
 
+## Hello GitHub
+
+### Une page d'acceuil.
+
 L’idée va être de créer un dossier à votre nom avec:
 * une photo à utiliser pour Git et LinkedIn
 * un `README.md` avec vos liens publics
@@ -42,11 +46,15 @@ L’idée va être de créer un dossier à votre nom avec:
   * Portfolio
   * 4 mots qui définissent votre carrière pour les deux années à venir
   * Des photos GitHub de vos portfolio
-* un CREDIT.md avec un message qui sera visible dans le casque.
-* Creons plusieurs dossier:
-* Scene/Demo pour deposer des example de vos travaux
-* Assets/3D pour deposer des travaux a vous en GLB
+* Telechargeons le sur votre ordinateur avec Fork
 
+### Travail de groupe sur Unity
+
+- Add
+
+### Voir ses assets en XR (Unity et Godot)
+
+- Add
 
 
 
@@ -57,28 +65,31 @@ L’idée va être de créer un dossier à votre nom avec:
 * Travailler sur différents ordinateurs sans problème
 * Créer des boîtes à outils réutilisables
 * …
+  
+Ici, nous sommes dans une formation XR: Virtual Reality, Augmented Reality et Mixed Reality.     
 
-Ici, nous sommes dans une formation XR: Virtual Reality, Augmented Reality et Mixed Reality.
+Durant la formation, je parie que vous aurez envie de voir un peu à quoi ressemblent vos créations 3D dans les casques de VR.   
+Sinon, je ne sais pas ce que vous faites dans cette formation XR. 😜😅   
 
-Durant la formation, je parie que vous aurez envie de voir un peu à quoi ressemblent vos créations 3D dans les casques de VR.
-Sinon, je ne sais pas ce que vous faites dans cette formation XR. 😜😅
+Mais comme vous avez un cours plus axé création que le Game Engine pour les artistes, il va falloir compter sur les développeurs pour vous permettre de voir vos créations.   
+(Je vous invite fortement à apprendre comment voir vos créations dans les game engines et à ne pas compter uniquement sur les développeurs.)   
 
-Mais comme vous avez un cours plus axé création que le Game Engine pour les artistes, il va falloir compter sur les développeurs pour vous permettre de voir vos créations.
-(Je vous invite fortement à apprendre comment voir vos créations dans les game engines et à ne pas compter uniquement sur les développeurs.)
+Le but, à la fin de la semaine, est que vous soyez familiarisés avec la phrase: **Add, Commit, Pull, Push** 🪄   
+En tout cas assez pour pouvoir travailler entre artistes et développeurs.   
 
-Le but, à la fin de la semaine, est que vous soyez familiarisés avec la phrase: **Add, Commit, Pull, Push** 🪄
-En tout cas assez pour pouvoir travailler entre artistes et développeurs.
+Je ne vois que les bases avec vous, mais c’est à vous de vous former le long de la formation, par l’échec et la pratique.    
 
-Je ne vois que les bases avec vous, mais c’est à vous de vous former le long de la formation, par l’échec et la pratique.
+Git est un outil nécessaire dans le jeu vidéo.   
+Ne pas le maîtriser équivaut à ne pas avoir d’emploi dans l’industrie.   
 
-Git est un outil nécessaire dans le jeu vidéo.
-Ne pas le maîtriser équivaut à ne pas avoir d’emploi dans l’industrie.
-
-Bonne apprentissage à tous.
-Allez, c’est parti.
+Bonne apprentissage à tous.  
+Allez, c’est parti.   
 
 -------------
 
+# Draft / Bruillons
+
+------------
 
 **Savoir faire:**
 - La première utilité de Git est de sauvegarder votre projet en cours.
