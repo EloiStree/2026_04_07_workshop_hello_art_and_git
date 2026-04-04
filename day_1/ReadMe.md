@@ -121,6 +121,9 @@ Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_
 
 ---------------------
 
+Package useful to learn:
+- https://github.com/EloiStree/2025_06_05_upm_debug_draw_utility
+- https://github.com/EloiStree/2020_06_06_upm_gizmo_tools
 ---------------------
 
 # Archive
