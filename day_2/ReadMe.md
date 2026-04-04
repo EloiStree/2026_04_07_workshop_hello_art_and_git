@@ -40,3 +40,7 @@ Solution : -
   * Créer une branche
   * Publier une branche sur la branche principale
 
+
+
+Exercice de Charleroi XR proche:
+- https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/167
