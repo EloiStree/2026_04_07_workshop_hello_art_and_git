@@ -97,3 +97,9 @@ https://youtu.be/GMLUycNsHY4?t=4055
 - [🎥 Prise de measure](https://youtu.be/2jzvmntd85g?t=1128)
   - More: [🎥 Quest to Unity3D](https://www.youtube.com/@EloiTeaching/search?query=Quest%20to%20Unity3D)
 - Mesh Measure 
+
+
+--------------------
+
+Example with Chich Art XR 🦆:
+https://github.com/EloiStree/2025_04_16_upm_techno_chick_art_xr  
