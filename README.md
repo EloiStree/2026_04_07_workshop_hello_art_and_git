@@ -20,25 +20,18 @@
 
 ##   Workshop Arts And Git
 
-😋😜 You’re gonna love it 😁
+😋😜 You’re gonna love it 😁   
 
-Le but de la formation est de vous former à la XR dans un groupe composé de 12 développeurs et de 12 artistes.
+Le but de la formation est de vous former à la XR dans un groupe composé de 12 développeurs et de 12 artistes.   
 
-Git, pour les développeurs, c’est un peu une seconde nature.
-Mais Git et les artistes, c’est un vrai film d’horreur xD.
+Git, pour les développeurs, c’est un peu une seconde nature.   
+Mais Git et les artistes, c’est un vrai film d’horreur xD.   
 
-Cette semaine est là pour vous permettre d’apprendre que ce n’est pas si horrible,
-et que c’est même l’outil le plus utile de toute votre vie.
+Cette semaine est là pour vous permettre d’apprendre que ce n’est pas si horrible,   
+et que c’est même l’outil le plus utile de toute votre vie.  
 
-C’est le premier outil informatique que l’on devrait apprendre aux enfants en primaire ;)
-_(Après un logiciel de dactylographie ⌨️ et Krita 💘)_
-
-Premiere exercice consiste simplement a creer des fichiers text dans un repertoire commun pour Godot
-Voir le tutorial ->
-
-Deuxieme exercice consistera a faire une boite a outil personnel en Unity et y faire un Shader Graph.
-Voir le tutorial -> 
-
+C’est le premier outil informatique que l’on devrait apprendre aux enfants en primaire ;)  
+_(Après un logiciel de dactylographie ⌨️ et Krita 💘)_   
 
 L’idée va être de créer un dossier à votre nom avec:
 * une photo à utiliser pour Git et LinkedIn
@@ -87,6 +80,17 @@ Allez, c’est parti.
 -------------
 
 
+**Savoir faire:**
+- La première utilité de Git est de sauvegarder votre projet en cours.
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/160
+- La deuxième utilité est de permettre le travail en groupe sur le même projet.
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/161
+- Ma troisième utilité est de créer des boîtes à outils réutilisables tout au long de votre carrière.
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
+- L'avantage des boîtes à outils est le principe de quarantaine, qui permet d'éviter les codes spaghetti.
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/163
+
+
 ##   Exercice en video: Techos, Git et Godot
 
 - Pratiquer Godot dans le train avec votre telephone:
@@ -115,12 +119,4 @@ Street art 2024: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/159
   - CMD: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/74
   - Desktop: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/72
   - Fork: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/73
-- Savoir faire:
-  - La première utilité de Git est de sauvegarder votre projet en cours.
-    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/160
-  - La deuxième utilité est de permettre le travail en groupe sur le même projet.
-    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/161
-  - Ma troisième utilité est de créer des boîtes à outils réutilisables tout au long de votre carrière.
-    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
-  - L'avantage des boîtes à outils est le principe de quarantaine, qui permet d'éviter les codes spaghetti.
-    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/163
+
