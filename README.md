@@ -9,12 +9,6 @@
   - Greybox et des couleurs sur un Git en groupe
   - Votre portfolio sur Unity et Godot
 
-##   Exercice en video:
-
-- Pratiquer Godot dans le train avec votre telephone:
-  - https://www.youtube.com/watch?v=eNjfkL6R6ZQ&t=3s
-- Montrer votre protfolio avec Godot sur Quest3
-  - https://www.youtube.com/watch?v=k4nxGuHmllo&t=3846s
 
 ##   Workshop Arts And Git
 
@@ -83,6 +77,18 @@ Bonne apprentissage à tous.
 Allez, c’est parti.
 
 -------------
+
+
+##   Exercice en video: Techos, Git et Godot
+
+- Pratiquer Godot dans le train avec votre telephone:
+  - https://www.youtube.com/watch?v=eNjfkL6R6ZQ&t=3s
+- Montrer votre protfolio avec Godot sur Quest3
+  - https://www.youtube.com/watch?v=k4nxGuHmllo&t=3846s
+
+
+
+---------------
 
 Learn about Godot and XR:  
 https://github.com/EloiStree/HelloGodotXR/issues/1  
