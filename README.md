@@ -84,6 +84,9 @@ Allez, c’est parti.
 
 -------------
 
+Learn about Godot and XR:  
+https://github.com/EloiStree/HelloGodotXR/issues/1  
+
 Unity Package: 
 - https://github.com/EloiStree/HelloUnityPackage/wiki
 
