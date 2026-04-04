@@ -82,60 +82,28 @@ Ne pas le maîtriser équivaut à ne pas avoir d’emploi dans l’industrie.
 Bonne apprentissage à tous.
 Allez, c’est parti.
 
+-------------
 
+Unity Package: 
+- https://github.com/EloiStree/HelloUnityPackage/wiki
 
------------------------
-
-## Exercices
-
-### Shader Graph sous Unity
-
-J’ai fait un projet **« Reality Hacker » sous Unity** qui permet de voir la caméra avec un filtre par-dessus.
-
-Pour cela, il nous faut créer des shaders,  
-ainsi que les créditer et les documenter avec un `Scriptable` et un fichier `.md`.  
-Vous allez voir : rien de bien compliqué.  
-
-**Pour les artistes :**
-
-* en Shader Graph.  
-
-**Pour les développeurs :**
-
-* en Shader Graph ;
-* en Compute Shader avec un peu de vibing
-  * pour les plus autodidactes.
-
-Voir [exercice](#)
-
----
-
----
-
-## Bonus Possible
-
-### Dactylographie
-
-J’ai fait un programme en Godot qui permet de s’entraîner à la dactylographie.
-Pour qu’il fonctionne, il faut y ajouter une image de fond, un audio et un `.str` dans un dossier.
-
-Voyons si vous avez compris comment Git fonctionne.
-
-Je vous laisse pratiquer l’exercice.
-Vous pouvez vous entraîner, mais j’interviendrai moins sur celui-ci.
-
-**Note:** Dactylographier et parler anglais est important pour un artiste, mais obligatoire pour un métier de programmeur.
-
-Voir [exercice](#)
-
-
-### Kiss Your Puppets
-
-Si vous aimez l’improvisation et le théâtre,
-
-vous pouvez pratiquer sur cette application :
-https://eloistree.itch.io/2019-10-04-kissyourpuppets
-
-Avec Git, proposez des thématiques via des branches.
-
-Voir [exercice](#)
+Charleroi XR:
+Street art 2024: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/159
+- Vielle videos sur la creation de boite a outil:
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
+  - Check list https://github.com/EloiStree/HelloGit/issues/46
+- Workshop sur Git 😋:
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/158
+- Software:
+  - CMD: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/74
+  - Desktop: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/72
+  - Fork: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/73
+- Savoir faire:
+  - La première utilité de Git est de sauvegarder votre projet en cours.
+    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/160
+  - La deuxième utilité est de permettre le travail en groupe sur le même projet.
+    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/161
+  - Ma troisième utilité est de créer des boîtes à outils réutilisables tout au long de votre carrière.
+    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
+  - L'avantage des boîtes à outils est le principe de quarantaine, qui permet d'éviter les codes spaghetti.
+    - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/163
