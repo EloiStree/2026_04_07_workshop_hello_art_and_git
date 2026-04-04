@@ -124,6 +124,8 @@ Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_
 Package useful to learn:
 - https://github.com/EloiStree/2025_06_05_upm_debug_draw_utility
 - https://github.com/EloiStree/2020_06_06_upm_gizmo_tools
+
+
 ---------------------
 
 # Archive
@@ -158,6 +160,20 @@ _la video si vous voulez vous y essayer_
 * Comment je transmets les joysticks à mon script ?
 * C’est quoi une méthode ?
 * C’est quoi un paramètre ?
+
+
+----------
+
+
+Charleroi XR, exercice proche:
+- Creer un cube: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/169
+- Pro-Builder: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/167
+- Bouger un drone: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/166
+# Draft
+
+[<img width="1086" height="582" alt="image" src="https://github.com/user-attachments/assets/e9bb9b1a-4719-40f3-ab7a-773e420c81e4" />](https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/164)
+https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/164
+https://github.com/EloiStree/HelloEloiStreeRawVideo/issues/5
 
   
 
