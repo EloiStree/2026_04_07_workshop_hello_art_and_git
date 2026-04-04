@@ -49,7 +49,11 @@ J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le 
 
 
 
+-------
 
+# Scan 3D
+
+- Draft room Charleroi Mons: https://github.com/EloiStree/2024_07_17_upm_open_brush_techo_design
 
 --------
 
