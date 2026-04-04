@@ -12,7 +12,7 @@ Vidéo : -
 Solution : -  
 
 
-Pro-Buidler: [🎥](https://youtu.be/IIC3IFKKoFQ?t=4755) | [📑](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/167)  
+Pro-Buidler: [🎥](https://youtu.be/IIC3IFKKoFQ?t=4755) | [📑](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/167) [📕](https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html) 
 Blocks Color: [🐙](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)   
 Checklist:
 - [ ] [textures](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/174)
