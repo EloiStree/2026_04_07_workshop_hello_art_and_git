@@ -11,6 +11,10 @@ Il prépare également à un futur atelier sur Godot avec l’option d’export 
 Vidéo : -  
 Solution : -  
 
+
+Pro-Buidler: [🎥](https://youtu.be/IIC3IFKKoFQ?t=4755) | [📑](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/167)  
+Blocks Color: [🐙](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)   
+
 ## Git
 
 * Documentation et images des capteurs :
