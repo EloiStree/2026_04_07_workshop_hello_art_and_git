@@ -43,4 +43,7 @@ Solution : -
 
 
 Exercice de Charleroi XR proche:
-- https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/167
+- Creer des objest 3D avec Pro Builder pour apprendre les bases:
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/167
+- Travailler dans la meme scene par boite a outils
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/163
