@@ -63,7 +63,7 @@ J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le 
 - [ ] https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/172
   - [ ] Draw measure a room https://youtu.be/GMLUycNsHY4?t=1464
 
-Charleroi XR Volume, Git: {ADD HERE}
+Charleroi XR Volume, Git: [📏](https://github.com/EloiStree/2025_05_20_upm_brush_measure_quai_10) https://github.com/EloiStree/2025_05_20_upm_brush_measure_quai_10
 
 
 [<img width="1105" height="335" alt="image" src="https://github.com/user-attachments/assets/bd12a07f-47a4-4bc6-9fae-23a1d5e4db89" />](https://youtu.be/GMLUycNsHY4?t=671)
@@ -94,4 +94,6 @@ https://youtu.be/GMLUycNsHY4?t=4055
 **🍪🏭 Et Open Brush**:   
 - https://github.com/EloiStree/2025_05_18_workshop_quest_dev_art_design_adb/blob/main/StepByStep.md
 - https://github.com/EloiStree/2025_05_18_workshop_quest_dev_art_design_adb/blob/main/AtelierMons.md
-
+- [🎥 Prise de measure](https://youtu.be/2jzvmntd85g?t=1128)
+  - More: [🎥 Quest to Unity3D](https://www.youtube.com/@EloiTeaching/search?query=Quest%20to%20Unity3D)
+- Mesh Measure 
