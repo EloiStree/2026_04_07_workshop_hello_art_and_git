@@ -14,6 +14,20 @@ Solution : -
 
 Pro-Buidler: [🎥](https://youtu.be/IIC3IFKKoFQ?t=4755) | [📑](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/167)  
 Blocks Color: [🐙](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)   
+Checklist:
+- [ ] [textures](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/174)
+- [ ] [UV](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/220)  
+- [ ] [matériaux](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/175)
+- [ ] [shaders](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/176)
+- [ ] [Shader Graph](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/65) 
+- [ ] [MeshFilter](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/177) 
+- [ ] [Mesh](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/67)  
+- [ ] [collisions](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/76)
+- [ ] [Prefab](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/5 )
+- [ ] [Nested Prefab](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/4)
+- [ ] [Particule](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/47)
+- [ ] [Un triangle](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/147)
+          
 
 ## Git
 
