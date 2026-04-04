@@ -86,3 +86,12 @@ https://youtu.be/GMLUycNsHY4?t=3154
 [<img width="475" height="344" alt="image" src="https://github.com/user-attachments/assets/303452fc-a0eb-4424-b7bd-e40dc4b94022" />
 ](https://youtu.be/GMLUycNsHY4?t=4055)
 https://youtu.be/GMLUycNsHY4?t=4055
+
+
+
+---------------------
+
+**🍪🏭 Et Open Brush**:   
+- https://github.com/EloiStree/2025_05_18_workshop_quest_dev_art_design_adb/blob/main/StepByStep.md
+- https://github.com/EloiStree/2025_05_18_workshop_quest_dev_art_design_adb/blob/main/AtelierMons.md
+
