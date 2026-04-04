@@ -1,13 +1,21 @@
+# Concept: Pratiquer Git pour travailler en groupe avec la XR
+
+**Godot dans le Quest3**:    
+[<img width="1367" height="706" alt="image" src="https://github.com/user-attachments/assets/17288cde-8d70-4da6-b22c-919b70c6efd7" />](https://youtu.be/6RE8KuCspqw?t=291)
+
+**24 apprenant sur Unity3D**:  
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9b7e9a3-90ac-4dbb-a58c-2ca9f4c3138f" />](https://eloistree.itch.io/magicdooratelierdegroupetechnocite)     
+
 
 ##  Planning
 - Dev:
-  - Votre premier cube et le Unity Package
+  - Votre premier cube et sauver avec Git
   - Greybox et des couleurs sur un Git en groupe
   - Arnaud: Unity et XR 
 - Art:
   - Arnaud: Jouer XR, Git et Unity 
   - Greybox et des couleurs sur un Git en groupe
-  - Votre portfolio sur Unity et Godot
+  - Votre portfolio sur Unity et Godot en XR
 
 
 ##   Workshop Arts And Git
