@@ -12,6 +12,9 @@ Vidéos :
 
 Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cube_cross_for_piggy.zip)
 
+> Plug long, mais le meme exercice : [WebGL](https://eloiteaching.itch.io/wownicecube) | [Git](https://github.com/EloiStree/2024_08_22_unity_wow_nice_cube)   
+> [🎥 Faire Sauter  le Cube](https://youtu.be/zM4Rm8Cs_MU?t=1389) [🎥 Un cube multi-platform XR](https://youtu.be/Ncd4KBM3km8?t=267)  [📑Workshop->](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/169)
+
 ---
 
 ## Objectif
