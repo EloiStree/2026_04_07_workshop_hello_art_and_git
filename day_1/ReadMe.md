@@ -175,5 +175,7 @@ Charleroi XR, exercice proche:
 https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/164
 https://github.com/EloiStree/HelloEloiStreeRawVideo/issues/5
 
-  
+________________________
 
+Kill the humans in the workshop ? 
+https://github.com/EloiStree/2025_04_16_upm_kill_all_humans_abduction
