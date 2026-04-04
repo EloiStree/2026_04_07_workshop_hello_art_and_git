@@ -93,19 +93,24 @@ car c’est le sujet des cours d’Arnaud.
 
 _Si l'exercice du matin est fini_  
 
-## If we have time 
-[<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16)
-Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16) ([Solution](https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code))   
+## Learn about Input in Unity
 
-
-## For Beginner or if we don't have time
-
+[🎥; How To tutorial](https://youtu.be/1-5Cb5VWcY8)   
+ 
 Try to move the car with the Input system of Unity3D:  
 - Input: https://github.com/EloiStree/2025_06_02_upm_tick_collection.git  
   - Steer car: https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git
   - Helicopter: https://github.com/EloiStree/2023_02_19_upm_kid_toy_helicopter_code.git
   - Tello: https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tello_code.git
   - Two wheel: https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git
+
+
+## Rotate and Move Two Wheels Car
+
+[<img width="1358" height="335" alt="image" src="https://github.com/user-attachments/assets/383e4d7d-dbd0-4c62-8020-fb6841e4f228" />](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16)
+Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/16) ([Solution](https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code))   
+
+
 
 
 
