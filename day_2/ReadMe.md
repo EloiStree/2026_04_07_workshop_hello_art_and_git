@@ -150,10 +150,22 @@ Allons y allonzo :
       - [ ] Vous avez un cube blue ;)
 
 Sauvons votre premier led rouge dans notre boite a outils
-- [ ] Aller a la racide du projet Unity a coter de Library
+- [ ] Aller a la racine du projet Unity a coter de Library
 - [ ] Ouvrer le terminal a cette endroid la. `CMD` dans le chemain d access window
-- [ ] Copier coller: git clone https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git Packages/2026_04_07_upm_charleroi_xr_art_on_unity
-
+- [ ] Copier coller:
+  - [ ] `git clone https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git Packages/2026_04_07_upm_charleroi_xr_art_on_unity`
+- [ ] Revener dans Unity et vous deveiez voir dans package `🏭: Charleroi XR Art`
+- [ ] Dans Team aller creer un dossier a votre nom
+  - [ ] NOM_PRENOM en alphanumeric uppercase
+- [ ] Creeons dans votre dossier:
+  - [ ] Un dossier: Scene, Prefab
+  - [ ] Ajoutons un ReadMe.md dans votre dossier pour vous crediter.
+  - [ ] Vous pouvez y ajouter un ProfilPicture.jpg si vous voulez personnalisez le ReadMe.md
+  - [ ] Si vous etes developer:
+    - [ ] Un Dossier Runtime avec un assembly `be.nom.prenom.artxr.Runtime`
+    - [ ] Cela vous creer un petit bulle pour votre code
+    - [ ] Clicker sur l assembly et editer le Root Namespace: Nom.ArtXR
+- [ ] 
 
 
 
