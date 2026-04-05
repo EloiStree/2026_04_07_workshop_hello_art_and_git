@@ -134,13 +134,16 @@ Allons y allonzo :
     - [ ] Ajouter un quad face vers le haut
     - [ ] Telecharger une image du composant
     - [ ] Couper et tourner l image and un editeur d image
+      - [ ] Editer pour que l image soit rectangulaire multiple de 2 (256x256)
     - [ ] Placer l image dans votre dossier
-    - [ ] Drag and dropper l images sur votre cube
-      - [ ] Un dossier material est creer pour vous avec le material dedans
+    - [ ] Creer un material `Mat_RedLedModule`
+    - [ ] Deposer votre image dans `Base map`
+    - [ ] Deposer le material sur le Quad
     - [ ] Measurer dans la vrai vie ou trouver les dimensions sur internet
-      - [ ] Creer un cube et dimensionnez le a cette taille.
-        - [ ] _(Fait un object a ratio de 1x1x1 meter si vous etes alaize avec l idee)_  
-    - [ ] Creer un cube que vous applatiser pour avoir le ratio du circuit
+      - [ ] Ajouter un point vide avec les dimensions en mm
+        - [ ] Trouvable en mesurant ou sur un 'Datashseet'
+      - [ ] Garder le Quad a 1x1x1
+    - [ ] Creer un cube que vous applatiser par dessus l image avoir le ratio du circuit
     - [ ] Ajouter y un couleur verte `lit` ( ou noir/bleu selon lobject)
     - [ ] Ajouton un cylindre par dessus l image de la led
     - [ ] Donnons une couleur rouge `unlit` a la led
@@ -159,16 +162,120 @@ Sauvons votre premier led rouge dans notre boite a outils
   - [ ] NOM_PRENOM en alphanumeric uppercase
 - [ ] Creeons dans votre dossier:
   - [ ] Un dossier: Scene, Prefab
+    - [ ] Scene c est vos scene de demo
+    - [ ] Prefab les objets utilisables par l equipe
   - [ ] Ajoutons un ReadMe.md dans votre dossier pour vous crediter.
   - [ ] Vous pouvez y ajouter un ProfilPicture.jpg si vous voulez personnalisez le ReadMe.md
   - [ ] Si vous etes developer:
     - [ ] Un Dossier Runtime avec un assembly `be.nom.prenom.artxr.Runtime`
     - [ ] Cela vous creer un petit bulle pour votre code
     - [ ] Clicker sur l assembly et editer le Root Namespace: Nom.ArtXR
-- [ ] 
+- [ ] Creeons un dossier Feature
+  - [ ] Creeons y un dosssier RedLedModule
+  - [ ] Deponsons y dedans ce que vous avez creer en `_/VOTRE_DOSSIER`
+  - [ ] Deplacer votre prefab dans votre dossier NOM_PRENON/Prefab
+    - [ ] Histoire que l integrateur puisse savoir ou trouver votre asset.
+    - [ ] Comparer avec la version example que j ai fait;
+      - [ ] Dans `Team/STREE_ELOI/Feature/RedLedModule`
+      - [ ] https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity/tree/main/Team/STREE_ELOI/Feature/RedLedModule
+    - [ ] Il faut maintenant faire un Add > commit > pull > Add > commit > pull > push
+      - [ ] Aller dans Unity|Packages/2026_04_07_upm_charleroi_xr_art_on_unity
+      - Pour Developer: 
+        - `cmd` pour ouvrir le terminal
+        - `git config --global user.name "YOUR NAME"
+        - `git config --global user.email "mail@ngmail.com"
+        -  Git demandera de s authentifer au premier `push`
+        - `git status` pour voir des changements
+        - `git add .` pour ajouter a la prochaine sauvegarde
+        - `git status` voir si ca a fonctionner
+        - `git commit -m "[3D] Ajoute d une led rouge"` pour sauver localement
+        - `git pull` pour se mettre a jour sur vos collegues
+        - `git push` Si tout est a jours
+        - Regler un conflit si il y en a un
+        - Se mettre a jour peut toujours bien changer un fichier ou l autre.
+        - `git status` pour voir des changements
+        - `git add .` pour ajouter a la prochaine sauvegarde
+        - `git status` voir si ca a fonctionner
+        - `git commit -m "[3D] Ajoute d une led rouge"` pour sauver localement
+        - `git pull` pour se mettre a jour sur vos collegues
+        - `git push` Si tout est a jours
+      - Pour les artistes:
+        - Ouvrer Fork.
+        - Passer le en Anglais
+        - File > Open Reperitory `C:\...\Packages\2026_04_07_upm_charleroi_xr_art_on_unity`
+        - Go in Local Changes
+        - Stage all the element
+        - Add a commit message: decrivant ce que vous avez faire
+        - Clicker sur Pull
+        - Si il y a des choses changees.
+          - Refait un commit dit de merge
+        - CLicker sur Pull
+        - Clicker su Push
+        
+> Felicitation vous venez de faire votre premier `Add commit pull push` ;) d' un asset pour le jeu video🎊 
 
 
+## Les branches
 
+Comme vous avez pu le constater, Pull Push sur le meme endroit de travail.
+C est pas super fun.
 
-**Export le FBX>GLB:**  
+Les branches, est le concpet qui revient a dire:
+"Je vais travailler dans une piece a coter, je reviens vers vous quand je suis bon"
+
+Dans Fork:
+- Click Droit sur `Branch` > `New Branch`
+- Donner votre `nom_prenon`  > `Create`
+- Double clicker sur `nom_prenom` pour changer de branch
+- Click droit sur main > merge into `nom_prenom`
+- Merge
+- Travailler sur votre dossier
+- Local > Stage > Commmit
+- Pull > Push
+- La premier fois, git vous demandra de vous ententifie depuis le site GitHub
+- Et vous voila avec votre bramch en ligne 🪵
+- Maintenant vous pouvez travaillez aussi salement que vous voulez.
+  - C est votre chez vous.
+- Un fois que vous avez fini de creer on veut faire l inverse
+- Add commit pull push ( pour sauver chez nous )
+- Double click sur main pour aller chez nos collegues
+- Clique droit sur `nom_prenom` et Merge into `main`
+- Pull pour vous mettre a jour.
+- Si vous avez travaillez sur le fichier d un autre il y aura un conflit
+- Sinon on se faire un petit pull push et on est bon 😉
+  
+On peut aller dans du plus compliquer.
+Car il y a beaucoup de maniere different de travailler proprement en Git.
+Mais c est bon pour aujourd'hui 😅.
+
+## Suite ?
+
+### Essayer d'exporter votre creation
+
+Vous pouvez utiliser ce que vous avez creez ici sur Godot.
+Mais pour ca il faut l exporter en FBX, ouvrir en Blender.
+Ajuster et l'exporter en GLB.
+
+Ou l'utilise telle quel.
+Mais c est pas le plus beau des formats le FBX.
+
+Pour cela utiliser l exporter de Unity.
+
+**Google:** Unity Package Manager Export
+
+Deposer votre export ici pour le projet Godot:  
 - https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors/issues/2
+
+### Explorer Pro Builder
+
+Unity a un editeur 3D simplifier qui permet au developer et debutant de debuter.
+Je vous invite a regarder a Pro Builder et faire le meme exercice avec un autre composant.
+- https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/202
+- https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/173
+
+### Le meme exercice xD
+
+L apprentissage pas par le repetition.
+Refaite le exercice avec un autre composant.
+
+
