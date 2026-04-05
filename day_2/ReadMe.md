@@ -111,8 +111,48 @@ Allons y allonzo :
     - [ ] https://eloistree.github.io/r/discord
 
  Allons 
+- [ ] Retournon dans votre project Unity et ouvrer le.
+- [ ] Ajoutons y un outils que je vous ai preparer: Block
+  - [ ] Verifier que Git est bien sur votre machine "cmd" > git
+  - [ ] Top Menu > Window > Package manager > `+` > Install un Git URL
+  - [ ] Copier: https://github.com/EloiStree/2024_10_16_upm_blocks_color.git
+  - [ ] Vouas avez maintenant dans votre projet une palette de couleur
+    - [ ] Aller voir a `Project > Packages > Blocks Color` `Materisl Lit/Unlit`
+  - [ ] Testons cela
+    - [ ] Prenons une scene Unity vide
+    - [ ] Ajoutons deux cubes
+    - [ ] Aller dans le dossier lit et deposer le material sur le cube
+    - [ ] Aller dans le dossier unlit et deposer le material sur le cube
+    - [ ] Aller dans le dossier Prefab et drag and dropper Block Color
+    - [ ] L'idee ici c est de faire des greybox mais avec un peu de couleur.
+    - [ ] Tant qu'un project ne fonctionne pas avec des cubes et des ronds de couleur pas besoin de plus.
+- [ ] Des cubes et des ronds.
+  - [ ]  Creer vous un petit dossier avec une scene _/NOM_PRENOM/Scene/HelloLed
+  - [ ]  Allez chercher dans la boite a senseur un object simple a faire avec des cubes et des ronds.
+    - [ ] Ou prenez un [led rouge](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/tree/main/assets/keyestudio/red_led_module) en example
+  - [ ]  Creer un point vite dans votre scene LedRouge
+    - [ ] Ajouter un quad face vers le haut
+    - [ ] Telecharger une image du composant
+    - [ ] Couper et tourner l image and un editeur d image
+    - [ ] Placer l image dans votre dossier
+    - [ ] Drag and dropper l images sur votre cube
+      - [ ] Un dossier material est creer pour vous avec le material dedans
+    - [ ] Measurer dans la vrai vie ou trouver les dimensions sur internet
+      - [ ] Creer un cube et dimensionnez le a cette taille.
+        - [ ] _(Fait un object a ratio de 1x1x1 meter si vous etes alaize avec l idee)_  
+    - [ ] Creer un cube que vous applatiser pour avoir le ratio du circuit
+    - [ ] Ajouter y un couleur verte `lit` ( ou noir/bleu selon lobject)
+    - [ ] Ajouton un cylindre par dessus l image de la led
+    - [ ] Donnons une couleur rouge `unlit` a la led
+    - [ ] Sauvons notre object en prefab
+      - [ ] Creer un dossier prefab
+      - [ ] Drag and dropper votre Object dans la hierarchy a Project
+      - [ ] Vous avez un cube blue ;)
 
-
+Sauvons votre premier led rouge dans notre boite a outils
+- [ ] Aller a la racide du projet Unity a coter de Library
+- [ ] Ouvrer le terminal a cette endroid la. `CMD` dans le chemain d access window
+- [ ] Copier coller: git clone https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git Packages/2026_04_07_upm_charleroi_xr_art_on_unity
 
 
 
