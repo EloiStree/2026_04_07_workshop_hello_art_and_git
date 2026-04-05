@@ -54,10 +54,15 @@ Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_gi
 ### Travail de groupe sur Unity
 
 Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/3)
+- https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_micro_bit_sensors
+
 ### Voir ses assets en XR (Unity et Godot)
 
 Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/4)
-
+- https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity
+  - https://github.com/EloiStree/2026_04_07_untiy_charleroi_xr_art 
+- https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_art_on_godot
+  - https://github.com/EloiStree/2026_04_07_godot_charleroi_xr_art 
 
 ### Pourquoi apprendre Git
 
