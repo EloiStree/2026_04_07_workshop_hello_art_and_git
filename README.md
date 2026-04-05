@@ -60,7 +60,7 @@ Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_gi
 
 Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/4)
 - https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity
-  - https://github.com/EloiStree/2026_04_07_untiy_charleroi_xr_art 
+  - https://github.com/EloiStree/2026_04_07_unity_charleroi_xr_art 
 - https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_art_on_godot
   - https://github.com/EloiStree/2026_04_07_godot_charleroi_xr_art 
 
