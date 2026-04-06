@@ -10,7 +10,8 @@ Solution : [https://github.com/EloiStree/2026_04_01_unity_hello_cube](https://gi
 Vidéos :     
 * Créer un cube et sauvegarder sur Git : https://youtu.be/KLYvMq1HCUM    
 
-Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cube_cross_for_piggy.zip)
+Download: [Piggy.zip](https://github.com/user-attachments/files/26422015/mon_cube_cross_for_piggy.zip)  
+Package: [One Input Game](https://github.com/EloiStree/2024_08_23_upm_one_Input_game)   
 
 > Plug long, mais le meme exercice : [WebGL](https://eloiteaching.itch.io/wownicecube) | [Git](https://github.com/EloiStree/2024_08_22_unity_wow_nice_cube)   
 > [🎥 Faire Sauter  le Cube](https://youtu.be/zM4Rm8Cs_MU?t=1389) [🎥 Un cube multi-platform XR](https://youtu.be/Ncd4KBM3km8?t=267)  [📑Workshop->](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/169)
