@@ -58,7 +58,7 @@ Sinon, je ne sais pas ce que vous faites dans cette formation XR 😜😅
 Comme vous avez un cours plus axé sur la création que sur les Game Engines pour les artistes, il faudra compter sur les développeurs pour visualiser vos créations en XR.  
 (Je vous invite fortement à apprendre comment voir vos créations dans les game engines et à ne pas dépendre uniquement des développeurs.)
 
-Le but, à la fin de la semaine, est que vous soyez à l’aise avec la phrase : **Add, Commit, Pull, Push** 🪄
+Le but, à la fin de la semaine, est que vous soyez à l’aise avec la phrase : **Add, Commit, Pull, Push** 🪄 sur une branche🪵
 
 Je ne vois que les bases avec vous, mais c’est à vous de continuer à vous former tout au long de la formation, par la pratique et parfois par l’échec.
 
