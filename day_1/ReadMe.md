@@ -138,9 +138,6 @@ Voir atelier [ici](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_
 [🎥How to](https://youtu.be/Bq60Q9n4NWk) 
 
 
-
-
-
 -------------------------
 
 
