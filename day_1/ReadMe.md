@@ -1,7 +1,6 @@
 
 # Matin: Des cubes et des ronds  
 
-Git, Input Toy: https://github.com/EloiStree/2026_04_02_unity_input_and_toys
 
 [<img width="1299" height="869" alt="image" src="https://github.com/user-attachments/assets/59df6f0e-f715-445b-b792-fa8307204f9a" />](https://github.com/EloiStree/2026_04_01_unity_hello_cube)   
 
@@ -105,6 +104,13 @@ Pour le fun, allons ajouter au package manager pour faire sauter le cube 😜 :
 Si vous voulez ajouter un meilleur temps ⌚ :
 [https://github.com/EloiStree/2024_09_06_upm_best_time_score](https://github.com/EloiStree/2024_09_06_upm_best_time_score)
 
+-------------------
+
+# Example d'Input
+
+Git, Input Toy: https://github.com/EloiStree/2026_04_02_unity_input_and_toys:       
+`git clone --recursive https://github.com/EloiStree/2026_04_02_unity_input_and_toys.git`    
+[<img width="560" height="266" alt="image" src="https://github.com/user-attachments/assets/cc3a2203-4916-40dd-8891-eb55f2a8ba8e" />](https://github.com/EloiStree/2026_04_02_unity_input_and_toys.git)   
 
 -------------
 
