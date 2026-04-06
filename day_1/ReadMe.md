@@ -91,6 +91,21 @@ Je ne me suis pas attardé sur le code,
 car c’est le sujet des cours d’Arnaud. 
 
 
+
+Your spelling is mostly fine, just a few small tweaks for smoother French and consistency:
+
+---
+
+
+# Avant-midi : One Input Game
+
+Pour le fun, allons ajouter au package manager pour faire sauter le cube 😜 :
+[https://github.com/EloiStree/2026_04_02_unity_input_and_toys](https://github.com/EloiStree/2026_04_02_unity_input_and_toys)
+
+Si vous voulez ajouter un meilleur temps ⌚ :
+[https://github.com/EloiStree/2024_09_06_upm_best_time_score](https://github.com/EloiStree/2024_09_06_upm_best_time_score)
+
+
 -------------
 
 # Apres-Midi:  Input, Translate and Rotate  
