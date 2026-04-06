@@ -136,8 +136,12 @@ https://github.com/EloiStree/HelloGodotXR/issues/1
 
 -------
 
-# Mesh
+### Mesh
 
 - Quai 10: https://github.com/EloiStree/2024_09_22_upm_quai10_mesh
 - 1666 Square: https://github.com/EloiStree/2024_09_25_upm_charleroi1666
-- https://github.com/EloiStree/2024_07_30_upm_charleroi_logo
+- Logo https://github.com/EloiStree/2024_07_30_upm_charleroi_logo
+
+### Tri Points
+- https://github.com/EloiStree/2024_10_17_upm_three_points_actions
+  - https://github.com/EloiStree/2025_03_19_upm_table_tennis_ref 
