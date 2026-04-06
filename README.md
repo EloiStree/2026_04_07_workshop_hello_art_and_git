@@ -18,9 +18,9 @@
   - Votre portfolio sur Unity et Godot en XR
 
 
-##   Workshop Arts And Git
+##   Workshop Arts And Git 😁
 
-😋😜 You’re gonna love it 😁   
+
 
 Le but de la formation est de vous former à la XR dans un groupe composé de 12 développeurs et de 12 artistes.   
 
@@ -35,26 +35,8 @@ _(Après un logiciel de dactylographie ⌨️ et Krita 💘)_
 
 ## Hello GitHub
 
-### Une page d'acceuil.
-
-L’idée va être de créer un dossier à votre nom avec:
-* une photo à utiliser pour Git et LinkedIn
-* un `README.md` avec vos liens publics
-  * LinkedIn
-  * Itch.io
-  * Github
-  * Portfolio
-  * 4 mots qui définissent votre carrière pour les deux années à venir
-  * Des photos GitHub de vos portfolio
-* Telechargeons le sur votre ordinateur avec Fork
-
-Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/2)
-
-
-### Travail de groupe sur Unity
-
-Atelier: [ici](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/issues/3)
-- https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_micro_bit_sensors
+Dev: [Day1](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/tree/main/day_1) - [Day2](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/tree/main/day_2) 
+Artist: [Day 2](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/tree/main/day_2) - [Day 3](https://github.com/EloiStree/2026_04_07_workshop_hello_art_and_git/tree/main/day_3) 
 
 ### Voir ses assets en XR (Unity et Godot)
 
