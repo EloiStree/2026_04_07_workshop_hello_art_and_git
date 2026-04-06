@@ -131,7 +131,7 @@ https://github.com/EloiStree/HelloGodotXR/issues/1
 - Logo: https://github.com/EloiStree/2024_07_30_upm_charleroi_logo
 
 ### Tri Points
-https://github.com/EloiStree/HelloThreePointsSetup/tree/main
-- https://github.com/EloiStree/2024_10_17_upm_three_points_actions  
-  - https://github.com/EloiStree/2025_03_19_upm_table_tennis_ref
+-https://github.com/EloiStree/HelloThreePointsSetup/tree/main
+  - https://github.com/EloiStree/2024_10_17_upm_three_points_actions  
+    - https://github.com/EloiStree/2025_03_19_upm_table_tennis_ref
 - https://github.com/EloiStree/2025_06_05_upm_two_points_quad_loader
