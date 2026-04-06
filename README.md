@@ -75,11 +75,7 @@ Allez, c’est parti.
 
 -------------
 
-# Draft / Bruillons
-
-------------
-
-**Savoir faire:**
+**Git Good:**
 - La première utilité de Git est de sauvegarder votre projet en cours.
   - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/160
 - La deuxième utilité est de permettre le travail en groupe sur le même projet.
@@ -88,6 +84,15 @@ Allez, c’est parti.
   - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
 - L'avantage des boîtes à outils est le principe de quarantaine, qui permet d'éviter les codes spaghetti.
   - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/163
+- Software:
+  - CMD: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/74
+  - Desktop: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/72
+  - Fork: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/73
+
+Unstore: [1](https://github.com/EloiStree/HelloUnityPackage) [2](https://github.com/EloiStree/HelloGitForUnity3D)
+[3](https://github.com/EloiStree/2024_07_16_MonsXrDesign) [4](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_16.md)
+[5](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_17.md) [6](https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork)
+
 
 
 ##   Exercice en video: Techos, Git et Godot
@@ -98,24 +103,41 @@ Allez, c’est parti.
   - https://www.youtube.com/watch?v=k4nxGuHmllo&t=3846s
 
 
+**Comment faire des Unity package:** 
+- https://github.com/EloiStree/HelloUnityPackage/wiki
+  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
+  - Check list https://github.com/EloiStree/HelloGit/issues/46
 
 ---------------
 
-Learn about Godot and XR:  
+# Autre
+
+**Learn about Godot and XR:**  
 https://github.com/EloiStree/HelloGodotXR/issues/1  
 
-Unity Package: 
-- https://github.com/EloiStree/HelloUnityPackage/wiki
+**Precedent formation Charleroi XR:**
+[<img width="788" height="171" alt="image" src="https://github.com/user-attachments/assets/ee16be0a-eda7-4609-80bd-d9e19a252dfe" />](https://github.com/EloiStree/2025_04_16_upm_techno_chick_art_xr)   
+[<img width="877" height="190" alt="image" src="https://github.com/user-attachments/assets/5c9f719f-140e-4981-a9e7-eb5a70ddd410" />](https://github.com/EloiStree/2025_04_18_BonjourPiouXR)
+- Chick: https://github.com/EloiStree/2025_04_16_upm_techno_chick_art_xr  
+- Fin de Nid: https://github.com/EloiStree/2025_04_18_BonjourPiouXR  
 
-Charleroi XR:
-Street art 2024: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/159
-- Vielle videos sur la creation de boite a outil:
-  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/162
-  - Check list https://github.com/EloiStree/HelloGit/issues/46
-- Workshop sur Git 😋:
-  - https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/158
-- Software:
-  - CMD: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/74
-  - Desktop: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/72
-  - Fork: https://github.com/EloiStree/HelloEloiTeachingVideo/issues/73
+**2024**:
+- https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/159
+- Workshop sur Git 😋: https://github.com/EloiStree/2024_07_19_CharleroiXR/issues/158
+- https://github.com/EloiStree/2024_07_03_HelloMonsXR
+- https://github.com/EloiStree/2024_07_03_HelloMonsXR/edit/main/CoolXR.md
+- https://github.com/EloiStree/2024_07_19_CharleroiXR
 
+**2025**:
+
+- Math et Rotation: https://github.com/EloiStree/2025_04_11_workshop_charleroi_quest_xr/blob/main/ToDoToday.md
+
+
+
+-------
+
+# Mesh
+
+- Quai 10: https://github.com/EloiStree/2024_09_22_upm_quai10_mesh
+- 1666 Square: https://github.com/EloiStree/2024_09_25_upm_charleroi1666
+- https://github.com/EloiStree/2024_07_30_upm_charleroi_logo
