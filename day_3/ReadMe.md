@@ -1,22 +1,37 @@
-
-
 # Vos GLB sur le Quest 2/3  
   
-> Allons voir vos créations sur le Quest.  
-  
-J’ai besoin d’un artiste débrouillard et d’un assistant pour le seconder.   
+> Allons voir vos créations sur le Quest dans Godot.  
+
+On peut mettre notre object dans un package de Unity3D  
+Puis recompiler le projet pour aller le voir.  
+Comme vous avez pratiquer hier.  
+
+Mais la tache est fastitdieuse:
+- Bouger -> Demander un build -> Brancher -> Recompiler -> Debrancher ...
+
+Il y a une solution a cela, pour peux que vous apprenier a utiliser Termux et Git.   
+
+Nous avons besoin:
+- d'un "tech" artiste débrouillard
+- d’un assistant pour le seconder.
+- Optionellement:
+  - un developer qui aime Godot
+  - un group qui s entrainde
   
 Godot est très bon pour importer des GLB.    
 Tellement bon qu’il y a généralement peu ou pas de retouches à faire.      
 
-Je vais donc vous apprendre à déposer un GLB dans un addon Godot non VR/XR,    
-afin de créer un portfolio de groupe.     
-   
-Je vais ensuite cloner cet addon sur mon casque avec Godot.      
-Vous pourrez ainsi voir vos portfolios 3D en VR.       
+- Clonons un addons godot dans un projet sur votre ordinateur
+  - https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_art_on_godot
+- Creons un project Godot XR avec notre addons dedans.
+  - https://github.com/EloiStree/2026_04_07_godot_charleroi_xr_art 
   
-J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le casque.      
-  
+Notre but:
+- Faire en sort que le groupe arrive a utiliser Git et les branches pour deposer leur asset dans le projet
+- Faire en sort que le deleguer arrive a pull les mises a jour sur le casque
+  - Faire en sort que le deleguer arrive a reinstaller le projet sur un casque 
+
+
 ---
 
 ## Planning
@@ -25,6 +40,10 @@ J’entraînerai les délégués de classe à gérer la partie Godot/Git sur le 
 
 * Apprendre à déposer un GLB dans Godot
 * Ajouter un dossier personnel dans un Git commun
+* Decouvrir Godot pour le fun:
+  * Importer des assets de vos vieux projets personnelles
+  * Importer des animations en regardand le manuel
+     
 
 ### Avant midi
 
