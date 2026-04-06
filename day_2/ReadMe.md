@@ -20,14 +20,14 @@ Solution : -
 **Blocks Color** : [🐙](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)
 
 **Checklist :**  
-- [ ] [textures](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/174)  
+- [ ] [Texture](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/174)  
 - [ ] [UV](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/220)  
-- [ ] [matériaux](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/175)  
-- [ ] [shaders](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/176)  
+- [ ] [Matériaux](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/175)  
+- [ ] [Shaders](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/176)  
 - [ ] [Shader Graph](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/65)  
 - [ ] [MeshFilter](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/177)  
 - [ ] [Mesh](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/67)  
-- [ ] [collisions](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/76)  
+- [ ] [Collisions](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/76)  
 - [ ] [Prefab](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/5)  
 - [ ] [Nested Prefab](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/4)  
 - [ ] [Particule](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/47)  
