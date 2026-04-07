@@ -76,8 +76,8 @@ _Note : Nous allons travailler sur un projet XR à partir d’une boîte à outi
 Pour ne pas attendre plus tard dans l’exercice :  
 - [ ] Vérifier que tout le monde utilise la même version d’Unity 3D  
 - [ ] Créer un projet Unity dans le dossier `C:/U/Q/`  
-  - [ ] `Unity Hub > URP 3D > Local` Nom : `Q_BlocksProBuilder`  
-  - [ ] Vous devriez avoir : `C:/U/Q/Q_BlocksProBuilder`
+  - [ ] `Unity Hub > URP 3D > Local` Nom : `Q_Blocks`  
+  - [ ] Vous devriez avoir : `C:/U/Q/Q_Blocksr`
 
 Allons-y !
 
