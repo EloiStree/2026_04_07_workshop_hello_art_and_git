@@ -1,3 +1,4 @@
+Discord: https://discord.gg/RJNYZgSv6c
 
 # Concept: Pratiquer Git pour travailler en groupe avec la XR
 
