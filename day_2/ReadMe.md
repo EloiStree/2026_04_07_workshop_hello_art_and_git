@@ -16,8 +16,7 @@ Il prépare également au futur atelier sur Godot sur le sujet de modder un simu
 
 <img width="1490" height="1479" alt="image" src="https://github.com/user-attachments/assets/2634fe22-fa4b-4f48-9e9a-6afe717e6c53" />
 
-Vidéo : -  
-Solution : -  
+
 
 **ProBuilder** : [🎥](https://youtu.be/IIC3IFKKoFQ?t=4755) | [📑](https://github.com/EloiStree/2024_07_19_workshop_charleroi_xr/issues/167) [📕](https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html)  
 **Blocks Color** : [🐙](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)
