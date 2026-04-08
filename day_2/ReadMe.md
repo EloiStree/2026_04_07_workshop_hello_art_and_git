@@ -5,7 +5,8 @@ Branching, no audio 🔇: https://youtu.be/cKZQURHljes
 -----
 
 - Documentation sur les composants : https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor  
-- Pratique de l’exercice : https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity  
+- Pratique de l’exercice : https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity
+  - Voir l'exercice dans le casque XR: https://github.com/EloiStree/2026_04_07_unity_charleroi_xr_art 
 - Export final en GLB : https://github.com/EloiStree/2026_04_07_gdp_charleroi_xr_micro_bit_sensors  
 
 -----------------------
