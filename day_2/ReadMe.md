@@ -2,6 +2,20 @@
 Grayboxing, no audio 🔇: https://youtu.be/wsBQlPwDZCA  
 Branching, no audio 🔇: https://youtu.be/cKZQURHljes  
 
+
+-------------
+
+**Add the following to the Package Manager:**
+
+* Blocks Color: [https://github.com/EloiStree/2024_10_16_upm_blocks_color.git](https://github.com/EloiStree/2024_10_16_upm_blocks_color.git)
+* Bonus: Export FBX, ProBuilder
+
+**Add a Git package to an empty project:**
+
+```bash
+git clone https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git Packages/2026_04_07_upm_charleroi_xr_art_on_unity
+```
+
 -----
 
 - Documentation sur les composants : https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor  
@@ -73,7 +87,7 @@ _Faire une île avec ProBuilder_ :
 
 # Atelier : Step by step
 
-**Objectif** : Créer un projet Unity avec une boîte à outils liée à Git et y faire un capteur en greybox avec ProBuilder et Blocks Color.  
+**Objectif** : Créer un projet Unity avec une boîte à outils liée à Git et y faire un capteur en greybox  Blocks Color.  
 
 **Point de passage** : Faire une page de bienvenue GitHub pour votre compte.  
 
@@ -83,16 +97,13 @@ Pour ne pas attendre plus tard dans l’exercice :
 - [ ] Vérifier que tout le monde utilise la même version d’Unity 3D  
 - [ ] Créer un projet Unity dans le dossier `C:/U/Q/`  
   - [ ] `Unity Hub > URP 3D > Local` Nom : `Q_Blocks`  
-  - [ ] Vous devriez avoir : `C:/U/Q/Q_Blocksr`
+  - [ ] Vous devriez avoir : `C:/U/Q/Q_Blocks`
 
 Allons-y !
-
 - [ ] Créer un compte GitHub  
   - [ ] Caractères alphanumériques et caractères spéciaux autorisés.  
   - [ ] `-` et `_` sont tolérés mais vivement déconseillés.  
-
 - [ ] Dites bonjour [ici →](https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity/issues/2)  
-
 - [ ] Créer une page d’accueil  
   - [ ] Créer un répertoire avec le même nom que votre nom d’utilisateur.  
   - [ ] Ajouter un `README.md`  
@@ -100,13 +111,11 @@ Allons-y !
   - [ ] Ajouter vos liens sociaux : LinkedIn, Portfolio…  
     - [ ] Ou pas.  
   - [ ] Aller personnaliser l’icône GitHub de votre compte.  
-
 - [ ] Créez votre premier « site web / blog » avec les GitHub Pages  
   - [ ] Aller dans le répertoire  
   - [ ] Settings > Pages > Configurer une page 😉  
   - [ ] Vous devriez avoir cela maintenant :  
     - https://eloistree.github.io/EloiStree/  
-
 - [ ] Noter que vous pouvez faire de même pour :  
   - [ ] Un portfolio ou votre CV :  
     - [ ] https://github.com/EloiStree/CV  
@@ -117,15 +126,14 @@ Allons-y !
   - [ ] Créer une redirection pour votre carte de visite  
     - [ ] https://eloistree.github.io/r/discord  
 
+Retour au projet:
 - [ ] Retourner dans votre projet Unity et l’ouvrir.  
-
 - [ ] Ajoutons l’outil que je vous ai préparé : **Blocks Color**  
   - [ ] Vérifier que Git est bien installé sur votre machine (`cmd` > `git`)  
   - [ ] Top Menu > Window > Package Manager > `+` > Install from Git URL  
   - [ ] Copier : https://github.com/EloiStree/2024_10_16_upm_blocks_color.git  
   - [ ] Vous avez maintenant dans votre projet une palette de couleurs  
     - [ ] Aller voir dans `Project > Packages > Blocks Color > Materials > Lit / Unlit`  
-
 - [ ] Testons cela  
   - [ ] Prendre une scène Unity vide  
   - [ ] Ajouter deux cubes  
@@ -134,12 +142,10 @@ Allons-y !
   - [ ] Aller dans le dossier **Prefab** et faire un drag & drop de **Block Color**  
   - [ ] L’idée ici est de faire du greyboxing mais avec un peu de couleur.  
   - [ ] Tant qu’un projet ne fonctionne pas avec des cubes et des ronds de couleur, pas besoin de plus.
-
 - [ ] Des cubes et des ronds  
   - [ ] Créez-vous un petit dossier avec une scène : `_/NOM_PRENOM/Scenes/HelloLed`  
   - [ ] Allez chercher dans la boîte à capteurs un objet simple à faire avec des cubes et des ronds.  
     - [ ] Ou prenez un [LED rouge](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/tree/main/assets/keyestudio/red_led_module) en exemple.  
-
   - [ ] Créer un point vide dans votre scène **LedRouge**  
   - [ ] Ajouter un quad face vers le haut  
   - [ ] Télécharger une image du composant  
@@ -170,29 +176,23 @@ Allons-y !
   git clone https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity.git Packages/2026_04_07_upm_charleroi_xr_art_on_unity
   ```  
 - [ ] Revenir dans Unity : vous devriez voir le package `🏭 Charleroi XR Art`  
-
 - [ ] Dans le dossier **Team**, créer un dossier à votre nom  
   - [ ] `NOM_PRENOM` en majuscules alphanumériques  
-
 - [ ] Créer dans votre dossier :  
   - [ ] Un dossier **Scenes** et un dossier **Prefabs**  
     - [ ] **Scenes** = vos scènes de démo  
     - [ ] **Prefabs** = les objets utilisables par l’équipe  
   - [ ] Ajouter un `README.md` dans votre dossier pour vous créditer  
   - [ ] Vous pouvez y ajouter une **ProfilPicture.jpg** pour personnaliser le README  
-
 - [ ] (Option développeur) Créer un dossier **Runtime** avec un Assembly Definition `be.nom.prenom.artxr.Runtime`  
   - [ ] Cliquez sur l’assembly et éditez le **Root Namespace** : `Nom.ArtXR`  
-
 - [ ] Créer un dossier **Feature**  
   - [ ] Créer dedans un dossier `RedLedModule`  
   - [ ] Déposer ce que vous avez créé dans `_/VOTRE_DOSSIER`  
   - [ ] Déplacer votre prefab dans votre dossier `NOM_PRENOM/Prefabs` (pour que l’intégrateur sache où le trouver)  
-
   **Comparer avec la version exemple que j’ai faite** :  
   `Team/STREE_ELOI/Feature/RedLedModule`  
   https://github.com/EloiStree/2026_04_07_upm_charleroi_xr_art_on_unity/tree/main/Team/STREE_ELOI/Feature/RedLedModule  
-
 - [ ] Il faut maintenant faire : **Add → Commit → Pull → Add → Commit → Pull → Push**  
 
 **Pour les développeurs (terminal) :**  
